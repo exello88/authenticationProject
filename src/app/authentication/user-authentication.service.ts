@@ -48,6 +48,7 @@ export class UserAuthenticationService {
         }
       } else {
         alert('Произошла неизвестная ошибка');
+        console.log('21');
       }
     }
   }
