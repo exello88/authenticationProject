@@ -7,6 +7,6 @@ import { SignUpComponent } from './authentication/sign-up/sign-up.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  showSignUp = false;
-  showLogIn = true;
+  public showSignUp : boolean = false;
+  public showLogIn : boolean = true;
 }

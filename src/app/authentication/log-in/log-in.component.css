@@ -54,12 +54,20 @@
     font-family: 'Rubik', sans-serif;
 }
 
+.errorField{
+    margin-left: 90px;
+    margin-top: 10px;
+    color:rgb(255, 62, 62);
+    font-family: 'Rubik', sans-serif;
+    font-size: 13px;
+}
+
 .logInBtn {
     display: flex;
     justify-content: center;
     background-color: #985ACE;
     margin-left: 90px;
-    margin-top: 20px;
+    margin-top: 10px;
     width: 270px;
     height: 40px;
     border-radius: 10px;
@@ -67,7 +75,7 @@
 }
 
 .logInBtnTitle {
-    margin-top: 9px;
+    margin-top: 11px;
     color: white;
     font-family: 'Rubik', sans-serif;
     font-size: 18px;
